@@ -7,8 +7,8 @@ It can be easily run in Colab.
 ---
 
 ## Repository Structure
-├── dataset/ # Contains the generated dataset from DFT simulation
-├── code/ # Python scripts and notebooks for model training and evaluation
+├── Datasets/ # Contains the generated dataset from DFT simulation
+├── Codes/ # Python scripts and notebooks for model training and evaluation
 └── README.md # Project documentation
 
 ---
